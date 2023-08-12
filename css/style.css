@@ -981,4 +981,8 @@ button {
     .pp-header h3{
         font-size: 20px;
     }
+
+    .about-text .link-item{
+        margin-top: 10px;
+    }
 }
